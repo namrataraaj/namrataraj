@@ -1,0 +1,33 @@
+NAMRATA RAJ — FINAL GITHUB UPLOAD ORDER
+
+Use the CLIENT'S own GitHub account and repository.
+
+1. Delete all old website files from the repository root.
+2. Extract this FINAL ZIP on your computer.
+3. Open the extracted folder.
+4. Upload ALL files together to the repository ROOT.
+5. Commit changes.
+6. GitHub Pages should remain:
+   main → / (root)
+7. Wait a few minutes.
+8. Open the live website and hard-refresh with Ctrl + Shift + R.
+
+IMPORTANT:
+- Do NOT upload the ZIP itself.
+- Do NOT create an extra parent folder.
+- Do NOT create an `assets` folder.
+- `index.html`, `style.css`, `script.js`, photos, feedback files and certificates must be directly in the repository root.
+
+This FINAL package contains every update made in this project:
+- Final session section: new smiling portrait on LEFT, text on RIGHT
+- Expanded Core Areas
+- Expanded 3-step Framework
+- Expanded Book details
+- Amazon / Flipkart / Google Play Buy Now
+- 15 Feedback photos
+- 4 Certificate photos
+- 3 extra Gallery photos
+- Updated Instagram and YouTube links
+- Actual social-media brand icons
+- WhatsApp logo/buttons
+- Responsive mobile design
